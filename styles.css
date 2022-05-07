@@ -1,0 +1,29 @@
+* {
+    background-color: #FCEDE0;
+}
+
+.big {
+    font-weight: bold;
+    font-family: 'Tahoma', 'Times New Roman', sans-serif;
+}
+
+.med {
+    font-weight: bold;
+    font-family: 'Optima', 'Times New Roman', sans-serif;
+}
+
+.index{
+    color: #EF9589;
+}
+
+.ziti {
+    color: orangered;
+}
+
+.pie {
+    color: tan;
+}
+
+.cake {
+    color: chocolate;
+}
